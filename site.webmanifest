@@ -1,0 +1,21 @@
+{
+  "name": "Lokesh Vaishnav — Graphic Designer & Video Editor",
+  "short_name": "Lokesh Portfolio",
+  "description": "Selected visual identities, video editing, and graphic design portfolio of Lokesh Vaishnav.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#07080b",
+  "theme_color": "#e8340a",
+  "icons": [
+    {
+      "src": "/assets/images/lokesh-avatar.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/assets/images/lokesh-avatar.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}

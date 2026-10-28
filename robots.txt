@@ -1,0 +1,6 @@
+# robots.txt for Lokesh Vaishnav Creative Portfolio
+User-agent: *
+Allow: /
+
+# Sitemap Location
+Sitemap: https://lokeshvaishnav.vercel.app/sitemap.xml
